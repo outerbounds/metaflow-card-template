@@ -1,2 +1,3 @@
 # metaflow-card-template
-A template for Metaflow cards
+
+A template for Metaflow Cards
